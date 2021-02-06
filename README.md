@@ -4,11 +4,11 @@ This pakage helps you to convert your local images to base64 encoded string
 
 ## Getting started
 
-**Installation**
+### **Installation**
 ---
 `npm i img-to-base64encoded`
 
-**Using it**
+### **Using it**
 ---
 ```
 <!-- This is a React Example -->
