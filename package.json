@@ -1,0 +1,24 @@
+{
+  "name": "img-to-base64",
+  "version": "1.0.0",
+  "description": "By this pakage you can convert your local img to base64 encoded string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-wrong-guy/img-to-base64.git"
+  },
+  "keywords": [
+    "image-to-base64",
+    "base64",
+    "base64encoding"
+  ],
+  "author": "Bhargab Kalita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the-wrong-guy/img-to-base64/issues"
+  },
+  "homepage": "https://github.com/the-wrong-guy/img-to-base64#readme"
+}
